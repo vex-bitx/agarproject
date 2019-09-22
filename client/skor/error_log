@@ -1,0 +1,1 @@
+[31-Jul-2016 15:47:21 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 1280 bytes) in /home/u6745962/public_html/dbconfig.php on line 16

@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^80$
+RewriteRule (.*) http://%{SERVER_NAME}%{REQUEST_URI}
+ErrorDocument 404 http://127.0.0.1
